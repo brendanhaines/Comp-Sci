@@ -37,8 +37,10 @@ void draw() {
 void mousePressed() {
   if( !encrypted ) {
     encrypt();
+    encrypted = true;
   } else {
     decrypt();
+    encrypted = false;
   }
 }
 
@@ -54,7 +56,6 @@ void encrypt() {
   background(255);
   image( hidden, 0, 0 );
   hidden.save( "hidden.jpg" );
-  encrypted = true;
 }
 
 void decrypt() {
