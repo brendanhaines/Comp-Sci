@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=max
+comment0.target=int\ randInt(int)
+comment1.params=numGames\ a\ b\ c\ d
+comment1.target=void\ randomPlay(int,\ SoccerTeam,\ SoccerTeam,\ SoccerTeam,\ SoccerTeam)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

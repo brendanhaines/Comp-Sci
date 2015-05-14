@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=pic1
+comment0.target=SimpleCoin(java.awt.Image)
+comment1.params=g\ x\ y
+comment1.target=void\ draw(java.awt.Graphics,\ int,\ int)
+numComments=2

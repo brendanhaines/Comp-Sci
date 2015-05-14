@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Line()
+comment1.params=_slope\ _yInt
+comment1.target=Line(double,\ double)
+comment2.params=
+comment2.target=double\ getSlope()
+comment3.params=
+comment3.target=double\ getYInt()
+comment4.params=
+comment4.target=void\ printLine()
+comment5.params=_slope
+comment5.target=void\ setSlope(double)
+comment6.params=_yInt
+comment6.target=void\ setYInt(double)
+comment7.params=_shift
+comment7.target=Line\ shift(double)
+comment8.params=
+comment8.target=void\ main()
+numComments=9

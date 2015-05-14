@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CandidatePool()
+comment1.params=candidate
+comment1.target=void\ addCandidate(Candidate)
+comment2.params=position
+comment2.target=java.util.List\ getCandidatesForPosition(java.lang.String)
+comment3.params=position
+comment3.target=Candidate\ getBestCandidate(java.lang.String)
+comment4.params=position
+comment4.target=int\ removeCandidatesForPosition(java.lang.String)
+numComments=5
